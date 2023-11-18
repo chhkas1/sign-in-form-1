@@ -1,0 +1,16 @@
+body{
+    background-color: wheat;
+}
+form{
+    background-color: blue;
+    padding: 40px;
+}
+.block{
+    color: orange;
+}
+.take{
+    color: wheat;
+    border: 3px solid white;
+    margin: 10px;
+    padding: 5px
+}
