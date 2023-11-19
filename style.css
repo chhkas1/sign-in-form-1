@@ -1,16 +1,25 @@
 body{
-    background-color: wheat;
-}
-form{
-    background-color: blue;
-    padding: 40px;
+    background-color: black
 }
 .block{
     color: orange;
+    margin-left: 40%;
 }
 .take{
     color: wheat;
     border: 3px solid white;
-    margin: 10px;
-    padding: 5px
+    margin: 10px;margin-left: 20%;margin-right: 20%;
+    padding: 10px
+}
+form{
+    background-color: red;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+.forget{
+    margin-left: 60%;
+}
+#sign{
+    margin-left:80%;
 }
